@@ -33,11 +33,8 @@ public class Iframe_Example {
 		
 		String text2 = driver.findElement(By.cssSelector(".h1-size")).getText();
 		System.out.println("Move to main Website : " + text2);
-		
-		
-		
-		
 
-	}
+
+	} 
 
 }
